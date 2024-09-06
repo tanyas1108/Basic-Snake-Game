@@ -3,8 +3,8 @@ let canvas = document.querySelector('canvas');
 let ctx = canvas.getContext('2d');
 
 let cellSize = 50;
-let boardHeight = 695;
-let boardWidth = 1500;
+let boardHeight = 680;
+let boardWidth = 1400;
 let snakeCells = [[0, 0]];
 let direction = 'right';
 
